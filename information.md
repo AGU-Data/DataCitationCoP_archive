@@ -8,6 +8,12 @@ Data Citation Community of Practice Workshop<br />
 8 April 2021 9:00 Pacific Time<br />
 Online Event (via Zoom)
 
+### About
+
+The data citation community of practice in the Earth, space, and environmental sciences (and related sciences) builds on discussions at the AGU Fall Meeting Data FAIR Town hall last December. It is intended to work on the issues still existing with data citations.
+
+In this workshop we want to explore/tackle is the challenge of citing a large number of datasets such that credit for individual datasets works properly. Discussion will include the concept of a Data Collection and the infrastructure/guidance still needed to full implement so it is easier for researchers to use.
+
 ### Program
 
 *Please feel free to [send pull-requests](https://github.com/AGU-Data/datacomm/blob/master/information.md) linking session materials.*
