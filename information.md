@@ -10,7 +10,7 @@ Online Event (via Zoom)
 
 ### Program
 
-*Please feel free to [send pull-requests](https://github.com/libcce/TriangleJupyter/blob/master/information.md) linking talk titles below to presentation materials.*
+*Please feel free to [send pull-requests](https://github.com/AGU-Data/datacomm/blob/master/information.md) linking session materials.*
 
 * 09:00 — 10:00: TBD
 * 10:00 — 11:00: TBD
@@ -46,9 +46,9 @@ The event Code of Conduct applies to these online spaces just as it does to the 
 
 ### Organizers
 
-* [Shelley](link), American Geophysical Union
-* [Caroline](link), Caltech
-* [Deb](link), Berkeley Lab
+* [Shelley Stall](https://www.agu.org/Learn-About-AGU/About-AGU/Data-Leadership), Senior Director, Data Leadership, American Geophysical Union
+* [Caroline Coward](https://www.linkedin.com/in/caroline-coward-nasa-jpl), Library Group Supervisor, NASA/JPL
+* [Deb Agarwal](https://crd.lbl.gov/about/staff/data-science-and-technology/deborah-a-agarwal/), Department Head & Senior Scientist, Lawrence Berkeley National Laboratory
 
 ### Registration
 
