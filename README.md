@@ -1,8 +1,8 @@
-# JupyterDay in the Triangle
+# Data Citation Community of Practice Workshop
 
-[![Join the chat at https://gitter.im/TriangleJupyter/Lobby](https://badges.gitter.im/TriangleJupyter/Lobby.svg)](https://gitter.im/TriangleJupyter/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+Join us on Slack...
 
-Source of the event website located at https://libcce.github.io/TriangleJupyter/.
+Source of the event website located at https://agu-data.github.io/datacomm.
 
 ## Contributing to the website
 
