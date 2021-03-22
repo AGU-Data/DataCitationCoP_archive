@@ -55,7 +55,6 @@ The event Code of Conduct applies to these online spaces just as it does to the 
 * [Caroline Coward](https://www.linkedin.com/in/caroline-coward-nasa-jpl), Library Group Supervisor, NASA/JPL
 * [Deb Agarwal](https://crd.lbl.gov/about/staff/data-science-and-technology/deborah-a-agarwal/), Department Head & Senior Scientist, Lawrence Berkeley National Laboratory
 * [Shelley Stall](https://www.agu.org/Learn-About-AGU/About-AGU/Data-Leadership), Senior Director, Data Leadership, American Geophysical Union
-* [Chris Erdmann](https://www.agu.org/Learn-About-AGU/About-AGU/Data-Leadership), Assistant Director for Data Stewardship, Data Leadership, American Geophysical Union
 
 ### Registration
 
