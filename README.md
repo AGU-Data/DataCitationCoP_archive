@@ -1,8 +1,6 @@
 # Data Citation Community of Practice Workshop
 
-Join us on Slack...
-
-Source of the event website located at https://agu-data.github.io/datacomm.
+Source of the event website located at https://agu-data.github.io/DataCitationCoP/.
 
 ## Contributing to the website
 
