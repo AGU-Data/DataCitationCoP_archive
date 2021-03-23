@@ -4,63 +4,53 @@ title: Information
 permalink: /information/
 ---
 
-Data Citation Community of Practice Workshop<br />
-8 April 2021 9:00 Pacific Time<br />
+Data Citation Community of Practice Workshop for Data Citation<br />
+8 April 2021 9:00 Pacific Time (<a href="https://www.timeanddate.com/worldclock/fixedtime.html?msg=Data+Citation+Community+of+Practice+Workshop&iso=20210408T09&p1=137&ah=1&am=30">See in your time</a>)<br />
 Online Event (via Zoom)
 
 ### About
 
-The data citation community of practice in the Earth, space, and environmental sciences (and related sciences) builds on discussions at the AGU Fall Meeting Data FAIR Town hall last December. It is intended to work on the issues still existing with data citations.
-
-In this workshop we want to explore/tackle is the challenge of citing a large number of datasets such that credit for individual datasets works properly. Discussion will include the concept of a Data Collection and the infrastructure/guidance still needed to full implement so it is easier for researchers to use.
+You are invited to participate in a newly formed Community of Practice for Data Citation in the Earth, Space, and Environmental Sciences (and related sciences).  This community of practice builds on discussions at the AGU Fall Meeting Data FAIR Town Hall, “Why Is Citing Data Still Hard?”.
+ 
+In this workshop we want to address the use case of citing a large number of datasets such that credit for individual datasets is assigned properly. Discussion will include the concept of a “Data Collection” and the infrastructure and guidance still needed to fully implement so it is easier for researchers to use and receive credit when their data are cited in this manner.  
 
 ### Program
 
-*Please feel free to [send pull-requests](https://github.com/AGU-Data/datacomm/blob/master/information.md) linking session materials.*
-
-* 09:00 — 10:00: TBD
-* 10:00 — 11:00: TBD
-    * [Speaker](link) (Affiliation)<br />
-* 11:00 — 12:00: TBD
-    * [Speaker](link) (Affiliation)<br />
-
-_[Please provide feedback...](link)_
+* 09:00 — 10:30: TBD, will be updated shortly
 
 ### Code of Conduct
 
-Project Jupyter is an engaged and respectful community made up of people from all over the world. Your involvement helps us to further our mission and to create an open platform that serves a broad range of communities, from research and education, to journalism, industry and beyond.
-
-[JupyterDay Code of Conduct](../conduct/)
+[AGU Meetings Code of Conduct](https://www.agu.org/Plan-for-a-Meeting/AGUMeetings/Meetings-Resources/Meetings-code-of-conduct)
 
 ### Live Chat and Note Taking
 
-We've setup a [Slack Channel](link) for attendees to communicate with one another during the event. We've also created a [Google Doc](link) to support collaborative note taking throughout the event.
+For the workshop, we will set up a Slack channel for attendees to communicate with one another during the event and a Google Doc to support collaborative note taking throughout the event.
 
 The event Code of Conduct applies to these online spaces just as it does to the venue.
 
 ### Social Media
 
-[#DataCommsWorkshop](link) / [@TwitterAccount?](link) on Twitter
+Use the Twitter hashtag [#DataCitationCoP](https://twitter.com/search?q=%23DataCitationCoP)
 
-### Organizations
+### Collaborators
 
-<p class="sponsors">
-<img height="54" src="/datacomm/img/" />
-<img height="54" src="/datacomm/img/" />
-<img height="54" src="/datacomm/img/" />
-</p>
+TBD, we will discuss
 
-### Organizers
+### Co-Organizers
 
-* [Caroline Coward](https://www.linkedin.com/in/caroline-coward-nasa-jpl), Library Group Supervisor, NASA/JPL
-* [Deb Agarwal](https://crd.lbl.gov/about/staff/data-science-and-technology/deborah-a-agarwal/), Department Head & Senior Scientist, Lawrence Berkeley National Laboratory
-* [Shelley Stall](https://www.agu.org/Learn-About-AGU/About-AGU/Data-Leadership), Senior Director, Data Leadership, American Geophysical Union
+* Caroline Coward, NASA JPL - Leading the development of the Community of Practice
+* Deb Agarwal, Lawrence Berkeley National Laboratory - Leading the scoping of the first use case and will be the use case “owner” for this working session.
+* Shelley Stall - AGU Sr. Director for Data Leadership helping to organize and support the effort.
+* Chris Erdmann – AGU Assistant Director for Data Stewardship helping to organize and support the effort. 
 
 ### Registration
 
-Registration is by invite only. Please contact (Shelley's email) if you have been invited and have not received the registration link via Zoom and/or if you would like to include a colleague from your organization.
+Register in advance for this meeting: [https://agu.zoom.us/meeting/register/tJEpcOyhpzguHtft-gab50nTAZ1i9fFZZ9kI](https://agu.zoom.us/meeting/register/tJEpcOyhpzguHtft-gab50nTAZ1i9fFZZ9kI)
 
-### Miscellaneous
+After registering, you will receive a confirmation email containing information about joining the meeting.
 
-* [Logistics for speakers](../logistics/speakers.html)
-* [Logistics for organizers](../logistics/organizers.html)
+### Additional Information
+
+In order to give the recommendations generated from these workshops a place for review and support, we are standing up an RDA working group that will collaborate with other interest groups and working groups already established in RDA with interest in DOIs, DOI Collections, repositories creating DOI collections, journals supporting citing DOI Collections, and Credit for the elements of a DOI Collection. You are welcome to participate in these workshops and coordinate the development and review of the recommendations. 
+ 
+In addition to the RDA review process for recommendations, we will also ask members of Earth Science Information Partners (ESIP) for review and comment.  Especially: COPDESS Cluster, Data Stewardship Committee, Discovery,  Research Object Citation, and Sustainable Data Management.
