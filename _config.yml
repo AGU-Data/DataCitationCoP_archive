@@ -1,6 +1,6 @@
 # Site settings
 title: Data Citation Community of Practice
-email: cerdmann@agu.org
+email: sstall@agu.org, cerdmann@agu.org, caroline.m.coward@jpl.nasa.gov, daagarwal@lbl.gov
 description: > # this means to ignore newlines until "baseurl:"
   Date
 baseurl:  /DataCitationCoP
