@@ -1,4 +1,4 @@
-# Data Citation Community of Practice Workshop
+# Data Citation Community of Practice Workshop for Data Citation
 
 Source of the event website located at https://agu-data.github.io/DataCitationCoP/.
 
