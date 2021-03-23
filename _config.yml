@@ -1,12 +1,12 @@
 # Site settings
-title: Data Comms Workshop
+title: Data Citation Community of Practice
 email: cerdmann@agu.org
 description: > # this means to ignore newlines until "baseurl:"
   Date
-baseurl:  /datacomm
+baseurl:  /DataCitationCoP
 url:  https://agu-data.github.io
-twitter_username: libcce
-github_username:  libcce
+twitter_username: 
+github_username:  AGU-Data
 
 # Build settings
 markdown: kramdown
