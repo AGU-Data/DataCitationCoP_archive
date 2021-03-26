@@ -22,8 +22,8 @@ In order to give the recommendations generated from these workshops a place for 
 In addition to the RDA review process for recommendations, we will also ask members of **Earth Science Information Partners (ESIP)** for review and comment.  Especially: COPDESS Cluster, Data Stewardship Committee, Discovery,  Research Object Citation, and Sustainable Data Management.
  
 **Co-organizers:**  
-Caroline Coward, NASA JPL - Leading the development of the Community of Practice
-Deb Agarwal, Lawrence Berkeley National Laboratory - Leading the scoping of the first use case and will be the use case “owner” for this working session.
-Shelley Stall - AGU Sr. Director for Data Leadership helping to organize and support the effort.
-Chris Erdmann – AGU Assistant Director for Data Stewardship helping to organize and support the effort. 
+- Caroline Coward, NASA JPL - Leading the development of the Community of Practice
+- Deb Agarwal, Lawrence Berkeley National Laboratory - Leading the scoping of the first use case and will be the use case “owner” for this working session.
+- Shelley Stall - AGU Sr. Director for Data Leadership helping to organize and support the effort.
+- Chris Erdmann – AGU Assistant Director for Data Stewardship helping to organize and support the effort. 
 
