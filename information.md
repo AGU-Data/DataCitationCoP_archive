@@ -4,7 +4,7 @@ title: Information
 permalink: /information/
 ---
 
-Data Citation Community of Practice Workshop for Data Citation<br />
+Data Citation Community of Practice Workshop for Earth, Space, and Environmental Sciences<br />
 8 April 2021 9:00 - 10:30 AM Pacific Time - 90 Minutes (<a href="https://www.timeanddate.com/worldclock/fixedtime.html?msg=Data+Citation+Community+of+Practice+Workshop&iso=20210408T09&p1=137&ah=1&am=30">See in your time</a>)<br />
 Online Event (via Zoom)
 
