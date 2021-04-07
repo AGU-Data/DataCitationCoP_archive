@@ -1,15 +1,15 @@
 ---
 layout: post
-title:  Data Citation Community of Practice Workshop for Data Citation Announcement
+title:  Data Citation Community of Practice Workshop for Earth, Space, and Environmental Sciences Announcement
 date: 2021-03-23
-description: Data Citation Community of Practice Workshop for Data Citation Announcement
+description: Data Citation Community of Practice Workshop for Earth, Space, and Environmental Sciences Announcement
 ---
 
 **You are invited to participate in a newly formed Community of Practice for Data Citation in the Earth, Space, and Environmental Sciences (and related sciences).**  This community of practice builds on discussions at the AGU Fall Meeting Data FAIR Town Hall, “Why Is Citing Data Still Hard?”.
  
 In this workshop we want to address the use case of citing a large number of datasets such that credit for individual datasets is assigned properly. Discussion will include the concept of a **“Data Collection”** and the infrastructure and guidance still needed to fully implement so it is easier for researchers to use and receive credit when their data are cited in this manner.  
  
-**Title:** Data Citation Community of Practice Workshop for Data Citation  
+**Title:** Data Citation Community of Practice Workshop for Earth, Space, and Environmental Sciences 
 **When:** Apr 8, 2021 12:00 PM Eastern Time (16:00 UTC)  
 **Register in advance for this meeting:** [https://agu.zoom.us/meeting/register/tJEpcOyhpzguHtft-gab50nTAZ1i9fFZZ9kI](https://agu.zoom.us/meeting/register/tJEpcOyhpzguHtft-gab50nTAZ1i9fFZZ9kI)  
 
