@@ -16,7 +16,11 @@ In this workshop we want to address the use case of citing a large number of dat
 
 ### Program
 
-* 09:00 — 10:30: TBD, will be updated shortly
+* 10 min - Welcome and Introductions (Caroline Coward) 
+* 20 min - Presentation of the use case and examples (Deb Agarwal)
+* 40 min - Discussion (Moderator: Deb Agarwal) 
+* 15 min - Next Steps (Deb Agarwal with support)
+* 5 min -  Wrap Up (Caroline Coward) 
 
 ### Code of Conduct
 
@@ -24,7 +28,7 @@ In this workshop we want to address the use case of citing a large number of dat
 
 ### Live Chat and Note Taking
 
-For the workshop, we will set up a Slack channel for attendees to communicate with one another during the event and a Google Doc to support collaborative note taking throughout the event.
+For the workshop, attendees will be able to chat via Zoom and a Google Doc to support collaborative note taking throughout the event (Google doc will be sent to registered attendees).
 
 The event Code of Conduct applies to these online spaces just as it does to the venue.
 
